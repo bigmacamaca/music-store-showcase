@@ -9,5 +9,5 @@ Desktop Preview:
 
 Demo Video:
 
-<video src='[Preview.webm](https://github.com/bigmacamaca/music-store-showcase/assets/106677157/6cc05053-0c83-43b2-ab63-6891b1ef7a65)' width=700px/>
+[Preview.webm](https://github.com/bigmacamaca/music-store-showcase/assets/106677157/6cc05053-0c83-43b2-ab63-6891b1ef7a65)
 
