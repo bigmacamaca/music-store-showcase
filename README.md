@@ -1,4 +1,4 @@
-A music store React JS Project using Create React App
+A music store React JS Project using Create React App and Tailwind CSS
 
 Desktop Preview:
 
